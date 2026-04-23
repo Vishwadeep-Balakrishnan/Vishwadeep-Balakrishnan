@@ -1,3 +1,4 @@
+---
 > I am an undergrad who is into AI Research, computational and applied physics, or just about anything that expands our understanding of the world further 🌿
 
 > I’ve worked on AI research around model architecture and mechanistic interpretability — especially tiny systems with selective memory, and experiments that reveal exactly where that memory fails and why 🧠
@@ -15,3 +16,5 @@
 > I read a lot — books, Substack, X, LessWrong, papers, whatever feels alive and worth thinking about 📚
 
 > I’m also into poker, Magic: The Gathering, and building side projects or doing independent research for fun 🎴
+
+---
