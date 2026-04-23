@@ -7,9 +7,9 @@ I am an undergrad who is into AI Research, computational and applied physics, or
 
 > 
 
-> 🔬 **Physics** — built a Surface Acoustic Wave sensor to detect nitroaromatic explosives. taught myself MATLAB from scratch to make it work.
+> 🔬 **Physics** — built a Surface Acoustic Wave sensor to detect nitroaromatic explosives, which was more robust and cheaper than other detection techniques. taught myself MATLAB from scratch to make it work.
 
-> 💻 **Stack** — `C` `C++` `Rust` `Python` `MATLAB` `LaTeX` · `PyTorch` `TensorFlow` `Scikit-Learn` `Pandas` `NumPy` `Statsmodels` `CUDA`
+> 💻 **Stack** — `C` `C++` `Rust` `Python` `MATLAB` `LaTeX` · `PyTorch` `TensorFlow` `Scikit-Learn` `Pandas` `NumPy` `Statsmodels` `Burn` 
 
 > ⚡ **Interested in** — AI, distributed systems & infra, high-performance computing, data analysis, and problems that don't have a commonly known name yet.
 
