@@ -13,6 +13,6 @@ I am an undergrad who is into AI Research, computational and applied physics, or
 
 > ⚡ **Interested in** — AI, distributed systems & infra, high-performance computing, data analysis, and problems that don't have a commonly known name yet.
 
-> 📖 **Otherwise** — I learn fast and go deep. I read a lot — books, Substack, X, LessWrong. I play poker & Magic: The Gathering. I build side projects and do independent research for fun. I like hard things.
+> 📖 **Otherwise** — I learn fast and go deep. I read a lot — books, Substack, X, LessWrong. I play poker & Magic: The Gathering. I build side projects and do independent research for fun. I like doing things considered "hard".
 ---
 
