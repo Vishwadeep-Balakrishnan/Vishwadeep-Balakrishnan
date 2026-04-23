@@ -1,4 +1,4 @@
-# こんにちは 🌱
+## こんにちは 🌱
 
 I am an undergrad majoring in CS & Math who is into AI Research, building cool software, computational and applied physics, or just about anything that's both fun, complex and meaningful to work on.
 
