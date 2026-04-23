@@ -1,16 +1,21 @@
-## Hi there 👋
+# こんにちは 👾
 
-<!--
-**Vishwadeep-Balakrishnan/Vishwadeep-Balakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergrad who is into AI Research, computational and applied physics, or just about anything that expands our understanding of the world further.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🧠 **AI Research** — model architecture & mechanistic interpretability. currently: building minimal AI systems with controlled memory, then stress-testing them to find exactly where and how memory fails — so we can build models that actually know how to use what they remember.
+
+> 
+
+> 🔬 **Physics** — built a Surface Acoustic Wave sensor to detect nitroaromatic explosives. taught myself MATLAB from scratch to make it work.
+
+> 💻 **Stack** — `C` `C++` `Rust` `Python` `MATLAB` `LaTeX` · `PyTorch` `TensorFlow` `Scikit-Learn` `Pandas` `NumPy` `Statsmodels` `CUDA`
+
+> ⚡ **Interested in** — AI, distributed systems & infra, high-performance computing, data analysis, and problems that don't have a commonly known name yet.
+
+> 📖 **Otherwise** — I learn fast and go deep. I read a lot — books, Substack, X, LessWrong. I play poker & Magic: The Gathering. I build side projects and do independent research for fun. I like hard things.
+
+---
+
+*quietly building · always reading · occasionally right*
