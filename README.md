@@ -3,7 +3,7 @@
 I am an undergrad who is into AI Research, building cool software, computational and applied physics, or just about anything that's both fun and meaningful to work on.
 
 ---
-<p>
+
 > 🧠 **AI Research** — Built interpretable AI systems with controlled memory, then stress-tested how memory fails to better understand how models can use it more effectively. Planning to keep expanding into broader AI problems.
 
 > 🛠️ **Projects** — a small selection of code i wrote: `a distributed database engine in C`
@@ -15,5 +15,5 @@ I am an undergrad who is into AI Research, building cool software, computational
 > ⚡ **Interested in** — AI, distributed systems & infra, high-performance computing, data analysis, and frontier tech.
 
 > 📖 **Otherwise** — I learn fast and go deep. I read a lot — books, Substack, X, LessWrong. I play a lot of poker & Magic: The Gathering. I love working on hard things.
-</p>
+
 ---
