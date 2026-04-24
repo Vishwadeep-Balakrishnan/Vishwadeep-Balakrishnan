@@ -1,6 +1,6 @@
 ### こんにちは 🌱
 
-I am an undergrad majoring in CS & Math and I'm AI Research, building cool software, computational and applied physics, or just about anything that's both fun, complex and meaningful to work on.
+I am an undergrad majoring in CS & Math and I'm into AI Research, building cool software, computational and applied physics, or just about anything that's both fun, complex and meaningful to work on.
 
 > 🧠 **AI Research** — Built interpretable AI systems with controlled memory, then stress-tested how memory fails to better understand how models can use it more effectively. Planning to work more on mechanistic interpretability + model architecture.
 
