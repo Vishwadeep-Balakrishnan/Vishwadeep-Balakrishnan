@@ -2,7 +2,7 @@
 
 I am an undergrad majoring in CS & Math who is into AI Research, building cool software, computational and applied physics, or just about anything that's both fun, complex and meaningful to work on.
 
-> 🧠 **AI Research** — Built interpretable AI systems with controlled memory, then stress-tested how memory fails to better understand how models can use it more effectively. Planning to work on more interesting AI research problems.
+> 🧠 **AI Research** — Built interpretable AI systems with controlled memory, then stress-tested how memory fails to better understand how models can use it more effectively. Planning to work on more on mechanistic interpretability + model architecture.
 
 > 🛠️ **Projects** — `phantom: a distributed in-memory KV store in C`, `RouteLab: a Python library for API mocking `, `LDPC Error Correction Simulator`
 
