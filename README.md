@@ -8,7 +8,7 @@ I am an undergrad majoring in CS & Math who is into AI Research, building cool s
 
 > 🛰️ **Physics/Engineering** — Built a Surface Acoustic Wave sensor for nitroaromatic explosive detection, and taught myself MATLAB, nanotechnology, and some signal processing from scratch to make it work.
 
-> 💻 **Stack** — `Python` `C++` `Rust` `MATLAB` `JavaScript` `C` `LaTex` · `PyTorch` `TensorFlow` `Scikit` `Pandas` `NumPy` `Statsmodels` `React`
+> 💻 **Stack** — `Python` `C++` `Rust` `MATLAB` `JavaScript` `LaTex` · `PyTorch` `TensorFlow` `Scikit` `Pandas` `NumPy` `Statsmodels` `React`
 
 > ⚡ **Interested in** — AI, distributed systems & infra, high-performance computing, data analysis, and frontier tech.
 
