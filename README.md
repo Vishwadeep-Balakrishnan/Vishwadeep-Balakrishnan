@@ -4,7 +4,7 @@ I am an undergrad majoring in CS & Math and I'm into AI Research, building cool 
 
 > 🧠 **AI Research** — Built interpretable AI systems with controlled memory, then stress-tested how memory fails to better understand how models can use it more effectively. Planning to work more on mechanistic interpretability + model architecture.
 
-> 🛠️ **Projects** — `phantom: a distributed in-memory KV store in C`, `RouteLab: a Python library for API mocking `, `LDPC Error Correction Simulator`
+> 🛠️ **Projects** — `RouteLab: a Python library for API mocking `,`phantom: a distributed in-memory KV store in C`, `LDPC Error Correction Simulator`
 
 > 🛰️ **Physics/Engineering** — Built a Surface Acoustic Wave sensor for nitroaromatic explosive detection, and taught myself MATLAB, nanotechnology, and some signal processing from scratch to make it work.
 
