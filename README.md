@@ -10,7 +10,5 @@ I am an undergrad majoring in CS & Math, and I'm into AI Research, applied physi
 
 > 💻 **Stack** — `Python` `C++` `Rust` `MATLAB` `JavaScript` `LaTex` · `PyTorch` `TensorFlow` `Scikit` `Pandas` `NumPy` `Statsmodels` `React`
 
-> ⚡ **Interest areas** — AI, distributed systems & infra, high-performance computing, data analysis, and frontier tech.
-
-> 📖 **Otherwise** — I like to read, hike, and build things. I play a lot of Poker and Magic: The Gathering. I love working on challenging problems.
+> 📖 **Otherwise** — I like to read, hike, and build things. I play a lot of Poker and Magic: The Gathering to an obsessive amount.
 
