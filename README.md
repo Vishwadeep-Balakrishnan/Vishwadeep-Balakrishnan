@@ -1,8 +1,8 @@
 ### こんにちは 🌱
 
-I am an undergrad majoring in CS & Math and I'm into AI Research, building cool software, computational and applied physics, or just about anything that's both fun, complex and meaningful to work on.
+I am an undergrad majoring in CS & Math, and I'm into AI Research, applied physics, and writing cool software.
 
-> 🧠 **AI Research** — Built interpretable AI systems with controlled memory, then stress-tested how memory fails to better understand how AI models can use it more effectively. Planning to work more on mechanistic interpretability + model architecture.
+> 🧠 **AI Research** — Built interpretable AI models with controlled memory, then stress-tested how memory fails to understand how we can build better memory mechanisms for AI. Planning to work more on mechanistic interpretability + model architecture.
 
 > 🛠️ **Projects** — `RouteLab: a Python library for API mocking `, `phantom: a distributed in-memory KV store in C`, `LDPC Error Correction Simulator`
 
@@ -12,5 +12,5 @@ I am an undergrad majoring in CS & Math and I'm into AI Research, building cool 
 
 > ⚡ **Interest areas** — AI, distributed systems & infra, high-performance computing, data analysis, and frontier tech.
 
-> 📖 **Otherwise** — I learn fast and go deep. I love to read books, Substack, X, LessWrong, and some niche blogs. I play a lot of poker and Magic: The Gathering. I love working on hard things.
+> 📖 **Otherwise** — I like to read, hike, and build things. I play a lot of Poker and Magic: The Gathering. I love working on challenging problems.
 
