@@ -1,6 +1,6 @@
 ### こんにちは 🌱
 
-I am an undergrad majoring in Electrical Engineering, and I'm into AI research, writing cool software, and building awesome engineering projects.
+I'm an undergrad studying Electrical Engineering, and I'm into AI research, writing cool software, and building awesome engineering projects.
 
 > 🧠 **Research** — My primary research interests are Applied AI, Robotics, and Engineering Physics.
 
