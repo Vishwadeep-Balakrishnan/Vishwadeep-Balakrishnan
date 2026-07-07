@@ -10,4 +10,4 @@ I'm an undergrad studying Electrical Engineering, and I'm into AI research, writ
 
 > 💻 **Stack** — `Python` `C` `C++` `Rust` `MATLAB` `JavaScript` · `PyTorch` `TensorFlow` `Scikit` `Pandas` `NumPy` `Statsmodels` `React`
 
-> 📖 **Otherwise** — I like to read a lot, hike, and work on meaningful problems. I play Poker and Magic: The Gathering to an obsessive amount. Still running experiments on what a good life looks like.
+> 📖 **Otherwise** — I like to read a lot, hike, and make things for fun. I play Poker and Magic: The Gathering to an obsessive amount. Still running experiments on what a good life looks like.
