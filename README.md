@@ -1,14 +1,13 @@
 ### こんにちは 🌱
 
-I am an undergrad majoring in CS & Math, and I'm into AI research, writing cool software, and applied physics.
+I am an undergrad majoring in Electrical Engineering, and I'm into AI research, writing cool software, and building awesome engineering projects.
 
-> 🧠 **AI Research** — Built interpretable AI models with controlled memory, then stress-tested how memory fails to understand how we can build better memory mechanisms for AI. Planning to work more on mechanistic interpretability + model architecture.
+> 🧠 **Research** — My primary research interests are Applied AI, Robotics, and Engineering Physics.
 
 > 🛠️ **Projects** — `RL based Robotic Swarm Coordination`, `phantom: a distributed in-memory KV store in C`, `RouteLab: a Python library for API mocking `, `LDPC Error Correction Simulator`
 
-> 🛰️ **Physics/Engineering** — Built a Surface Acoustic Wave sensor for nitroaromatic explosive detection, and taught myself MATLAB and some signal processing from scratch to make it work.
+> 🛰️ **Physics/Engineering** — Built a Surface Acoustic Wave sensor for detecting nitroaromatic explosives and taught myself MATLAB and some signal processing from scratch to make it work.
 
 > 💻 **Stack** — `Python` `C` `C++` `Rust` `MATLAB` `JavaScript` · `PyTorch` `TensorFlow` `Scikit` `Pandas` `NumPy` `Statsmodels` `React`
 
-> 📖 **Otherwise** — I like to read a lot, hike, and work on hard problems. I play a lot of Poker and Magic: The Gathering to an obsessive amount. Still running experiments on what a good life looks like.
-
+> 📖 **Otherwise** — I like to read a lot, hike, and work on meaningful problems. I play Poker and Magic: The Gathering to an obsessive amount. Still running experiments on what a good life looks like.
