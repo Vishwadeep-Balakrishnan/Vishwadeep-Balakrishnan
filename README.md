@@ -1,6 +1,6 @@
 ### こんにちは 🌱
 
-i'm an undergrad studying Electrical Engineering, and i'm into ai research, writing cool software, and building awesome engineering projects.
+i'm an undergrad studying electrical engineering, and i'm into ai research, writing cool software, and building awesome engineering projects.
 
 > 🛠️ **projects** — `phantom: a distributed in-memory KV store in C`, `RouteLab: a Python library for API mocking `, `LDPC Error Correction Simulator`
 
