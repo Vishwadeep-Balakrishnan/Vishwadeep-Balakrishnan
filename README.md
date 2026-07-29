@@ -8,4 +8,4 @@ i'm an undergrad studying electrical engineering, and i'm into ai research, writ
 
 > 💻 **stack** — `Python` `C` `C++` `MATLAB` `JavaScript` `Verilog`· `PyTorch` `Scikit` `Pandas` `Statsmodels` `React`
 
-> 📖 **otherwise** — i like to read a lot, hike, and make things for fun. i play poker and magic: the gathering to an obsessive amount. still running experiments on what a good life looks like.
+> 📖 **otherwise** — i like to read a lot, hike, and (reverse)engineer things for fun. i play poker and magic: the gathering to an obsessive amount. still running experiments on what a good life looks like.
