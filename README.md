@@ -2,7 +2,7 @@
 
 i'm an undergrad studying electrical engineering, and i'm into ai research, writing cool software, and building awesome engineering projects.
 
-> 🛠️ **projects** — `phantom: a distributed in-memory KV store in C`, `RouteLab: a Python library for API mocking `, `LDPC Error Correction Simulator`
+> 🛠️ **projects** — `phantom: Distributed in-memory KV store in C`, `RouteLab: a Python library for API mocking `, `LDPC Error Correction Simulator`
 
 > 🛰️ **physics/engineering** — built a surface acoustic wave sensor for detecting nitroaromatic explosives and taught myself MATLAB and some signal processing from scratch to make it work.
 
