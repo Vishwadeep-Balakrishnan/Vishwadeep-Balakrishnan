@@ -1,6 +1,6 @@
 ### こんにちは 🌱
 
-i'm an undergrad studying cs, and i'm into ai research, writing cool software, and building awesome engineering projects.
+i'm an undergrad studying engineering, and i'm into ai research, writing useful software, and building awesome engineering projects.
 
 > 🛠️ **projects** — `phantom: Distributed in-memory KV store in C`, `RouteLab: a Python library for API mocking `, `LDPC Error Correction Simulator`
 
