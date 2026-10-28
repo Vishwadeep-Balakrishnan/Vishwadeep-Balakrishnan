@@ -3,7 +3,7 @@
 i'm an undergrad studying computer science, and i'm into ai research, writing useful software, and building awesome engineering projects.
 
 > 🛠️ **projects**
-> - `Camera–LiDAR Fusion Perception` — multimodal 3D perception on KITTI: fine-tuned YOLO26s in PyTorch, PCL (C++) for RANSAC ground removal + Euclidean clustering, deployed as Dockerized ROS 2 nodes with RViz
+> - `Camera–LiDAR Fusion Perception` — multimodal 3D perception on KITTI dataset: fine-tuned YOLO26s in PyTorch, PCL (C++) for RANSAC ground removal + Euclidean clustering, deployed as Dockerized ROS 2 nodes with RViz
 > - `Battery Telemetry & Power Market Arbitrage Simulator` — multithreaded C++ telemetry on a Raspberry Pi, register-level I2C reads in C, MQTT → FastAPI/PostgreSQL → React/TypeScript dashboard, plus battery arbitrage sims on PJM prices
 > - `Flubber` — voice-first AI browser assistant (Chrome MV3 + Python backend + OpenAI API) that completes multi-step tasks from a voice command using DOM + visual context
 
