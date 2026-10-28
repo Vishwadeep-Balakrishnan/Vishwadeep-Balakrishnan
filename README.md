@@ -9,6 +9,6 @@ i'm an undergrad studying computer science, and i'm into ai research, writing us
 
 > 🛰️ **physics/engineering** — built a surface acoustic wave sensor for detecting nitroaromatic explosives and taught myself MATLAB and some signal processing from scratch to make it work.
 
-> 💻 **stack** — `Python` `C` `C++` `SQL` `JavaScript` `TypeScript` `MATLAB` `Bash` · `PyTorch` `scikit-learn` `OpenCV` `Pandas` `NumPy` · `ROS 2` `Docker` `Linux` · `FastAPI` `PostgreSQL` `React` `AWS`
+> 💻 **stack** — `Python` `C` `C++` `SQL` `JavaScript` `TypeScript` `MATLAB` `Bash` · `PyTorch` `scikit-learn` `OpenCV` `Pandas` `NumPy` · `ROS 2` `Docker` `Linux` · `FastAPI` `PostgreSQL` `React`
 
 > 📖 **otherwise** — i like to read a lot, hike, and (reverse)engineer things for fun. i play poker and magic: the gathering to an obsessive amount. still running experiments on what a good life looks like.
